@@ -1,6 +1,5 @@
 # Pinksale_Trending_Bot
 A bot to trend a Project on pinksale.finance
-<p align="center"><a href="https://www.youtube.com/watch?v=1w0r1kJtCqY&t=121s" target="_blank"><img src="https://https://github.com/Trending-bot-developer-off/Pinksale_Trending_Bot/blob/main/thumbnail.png?raw=true"></a></p>
 
 ## About
 A bot to trend a Project on pinksale finance
