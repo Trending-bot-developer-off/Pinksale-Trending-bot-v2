@@ -35,7 +35,7 @@ If you are interested contact me through here <a href="#contact">Contact</a>
 
 🔺 Up to date chrome version
 
-🔺 Python Latest Version 3.12.2
+🔺 Python Latest Version 3.13.0
 
 🔺 Residential Proxies from webshare.io
 
